@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Guillermo</h1>
 <h3 align="center">A passionate computer technician and junior Frontend Developer from Alicante, Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wholock98&label=Profile%20views&color=0e75b6&style=flat" alt="wholock98" /> </p>
-
 - 🌱 I’m currently learning **Angular, TypeScript, JavaScript, Java**
 
 - 👯 I’m looking to collaborate on **new projects**
@@ -18,4 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wholock98&show_icons=true&locale=en&layout=compact" alt="wholock98" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wholock98&show_icons=true&locale=en" alt="wholock98" /></p>
-
